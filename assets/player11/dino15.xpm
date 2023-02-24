@@ -1,0 +1,33 @@
+/* XPM */
+static char *dino161675937201[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 3 1 ",
+"  c #537A3A",
+". c #8FDE5D",
+"X c white",
+/* pixels */
+"........................",
+"........................",
+"........................",
+"........................",
+".........XXXXXXXXX......",
+"......XXXXXXXXXXXXX.....",
+".....XXXXXXXXXXXXXX.....",
+"....XXXXXXXXXXXXXXX.....",
+"....XXXXXXXXXXXXXXX.....",
+"....XXXXXXXXXXXXXXX.....",
+".....XXXXXXXXXXXXXX.....",
+".....XXXXXXXXXXXXXX.....",
+".....XXXXXXXXXXX........",
+"......XXXXXXXX..........",
+".......XXXXXXXX.........",
+".....XXXXXXXXXXX........",
+".....XXXXXXXXXXX........",
+".....XXXXXXXXXXX........",
+".......XXXXXXXX ........",
+".....  XXX         .....",
+"....   XX           ....",
+".....              .....",
+"........        ........",
+"........................"
+};
